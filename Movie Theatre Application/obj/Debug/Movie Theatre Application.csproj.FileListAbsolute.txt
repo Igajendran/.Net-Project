@@ -1,0 +1,7 @@
+C:\Users\Ishwarya\Documents\AdvancedDotNet\Movie Theatre Application\Movie Theatre Application\bin\Debug\Movie Theatre Application.exe.config
+C:\Users\Ishwarya\Documents\AdvancedDotNet\Movie Theatre Application\Movie Theatre Application\bin\Debug\Movie Theatre Application.exe
+C:\Users\Ishwarya\Documents\AdvancedDotNet\Movie Theatre Application\Movie Theatre Application\bin\Debug\Movie Theatre Application.pdb
+C:\Users\Ishwarya\Documents\AdvancedDotNet\Movie Theatre Application\Movie Theatre Application\obj\Debug\Movie Theatre Application.csproj.AssemblyReference.cache
+C:\Users\Ishwarya\Documents\AdvancedDotNet\Movie Theatre Application\Movie Theatre Application\obj\Debug\Movie Theatre Application.csproj.CoreCompileInputs.cache
+C:\Users\Ishwarya\Documents\AdvancedDotNet\Movie Theatre Application\Movie Theatre Application\obj\Debug\Movie Theatre Application.exe
+C:\Users\Ishwarya\Documents\AdvancedDotNet\Movie Theatre Application\Movie Theatre Application\obj\Debug\Movie Theatre Application.pdb
